@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Entrega Evaluable 3.12/Entrega Evaluable 3.12.vcxproj" />
+</Solution>
